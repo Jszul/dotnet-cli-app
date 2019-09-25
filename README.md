@@ -29,6 +29,9 @@ dotnet ef database update
 dotnet build
 dotnet run 
 ```
+### HTTP GET EXAMPLE
+
+![image](https://user-images.githubusercontent.com/27320490/65568461-7d427b80-df1f-11e9-8c2c-68e1762b2acc.png)
 
 ## Version History
 
