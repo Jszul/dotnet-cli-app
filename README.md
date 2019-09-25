@@ -16,7 +16,7 @@ The REST API interacts with a MS SQL Server Database that contains a repository 
 *.Net Core
 * Entity Framework
 * Microsoft SQL Server
-*Entity Framework Dependency Injection
+* Entity Framework Dependency Injection
 
 ### Executing program
 
